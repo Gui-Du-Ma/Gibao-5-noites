@@ -20,7 +20,7 @@ O objetivo do projeto é desenvolver uma experiência curta de terror focada em 
 
 Clone o repositório:
 
--git clone https://github.com/Gui-Du-Ma/O-vizinho-Estranho.git
+-git clone https://github.com/Gui-Du-Ma/Gibao-5-noites.git
 
 Entre na pasta do projeto:
 
