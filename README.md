@@ -2,6 +2,8 @@
 
 ## Sobre o projeto
 
+INTEGRANTES: Guilherme Duarte, Rafael Gomes e Nicolas Silva
+
 Gibão — As Cinco Noites é uma visual novel de terror desenvolvida em Python.
 
 O jogo conta a história de Bob, um homem que vive sozinho no interior e começa a perceber acontecimentos estranhos envolvendo suas galinhas e seu vizinho Rafael.
